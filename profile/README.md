@@ -1,21 +1,12 @@
-# KingsButBad
+# NetworkButBad
 
-# Notice:
-> This project is for KingsButBad related projects, most of the project is closed-soruce.
+> This project is for NetworkButBad by aquaotter.
+> **as of now this project is not publicly available.**
+> 
 
+The following projects / gamemodes are inside or under NetworkButBad.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Note: More will be added unto this at a later date.
+KingsButBad
+> A roleplay kingdom based server of kingdoms.
+NeoPrisonButBad (NOT CONFIRMED)
+> A prison server based on the previous server PrisonButBad (PrisonGame).
